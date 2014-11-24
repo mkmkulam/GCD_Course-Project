@@ -36,4 +36,7 @@ The R script **run_analysis.R**:
 6. The 2 resulting files (step 4 and step 5) are saved (as .csv datasets) to disk in a folder named 'tidyData':
       - tidyData/tidyTable.txt
       - tidyData/overallMeansTable.txt
+
+##IMPORTANT NOTE
+The *run_analysis.R* script **MUST be** in the same folder with the original UCI HAR Dataset **folder** (obtained after unzipping). 
       
