@@ -34,7 +34,7 @@ The R script **run_analysis.R**:
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, the script creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-6. The 2 resulting files (step 4 and step 5) are saved (as .csv datasets) to disk in a folder named 'tidyData':
+6. The 2 resulting files (step 4 and step 5) are saved to disk in a folder named 'tidyData':
       - tidyData/tidyTable.txt
       - tidyData/overallMeansTable.txt
 
