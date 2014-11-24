@@ -39,5 +39,5 @@ The R script **run_analysis.R**:
       - tidyData/overallMeansTable.txt
 
 ##IMPORTANT NOTE
-The *run_analysis.R* script **MUST be** in the same folder with the original UCI HAR Dataset **folder** (obtained after unzipping). 
+The *run_analysis.R* script **MUST BE** in the same folder with the original UCI HAR Dataset **folder** (obtained after unzipping). 
       
