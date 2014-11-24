@@ -2,7 +2,7 @@
 The goal of this project is to prepare tidy data that can be used for later analysis.
 <br/>The project is part of the **Getting and Cleaning Data** Coursera course.
 
-You can find  **Code book** is at the end of this README file.
+You can find the **Code book** for this project in a separate file.
 
 ####Preliminary survey of the raw data available
 1. The data batch was delivered in a compressed folder named *getdata_projectfiles_UCI HAR Dataset.zip* which was decompressed.
