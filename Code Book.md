@@ -2,7 +2,7 @@
 1. Step by step description of the processing done by the *run_analysis.R* script.
 2. Variables.
 
-#1. Step by step description of the processing done by the *run_analysis.R* script.
+##1. Step by step description of the processing done by the *run_analysis.R* script.
 **STEP 1**
 Load raw measurement data tables, bind them, free memory from the orginal files.
 
@@ -78,9 +78,10 @@ Description of each step is also in the script file.
 
 
 ###2. Variables.
-####For the *tidyTable.txt* dataset.
+
+####Variables in the *tidyTable.txt* dataset.
 All variables have the same meaning as in the original datasets.
-The added variables have tthe explanation to heir side.
+The added variables have the explanation to their side.
 
 [1] "activity_id" - added to permit merge: it corresponds to the original factor variable connected to the label.                   
 [2] "id" - unique progressive number for each row                           
@@ -173,7 +174,7 @@ The added variables have tthe explanation to heir side.
       - 6 LAYING
 
 
-####For the *overallMeansTable.txt* dataset.
+####Variables for the *overallMeansTable.txt* dataset.
 
 All the above, except "activity_id" and "id" have been removed after the grouping.
 In this dataset the column names indicate the overall mean for the given variable,
